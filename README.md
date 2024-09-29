@@ -24,3 +24,7 @@ German Traffic Sign Recognition Benchmark (GTSRB)：
 + 高精度地图（High Precision Map）：提供道路、交通标志以及地面标记的精确地图信息。
 + 端到端（End-to-End）：一种实验性功能，使用深度学习直接从传感器输入到控制信号的全路径学习。
 
+## 工作参考
+
++ https://www.cnblogs.com/traviscui/p/16590396.html
++ 
